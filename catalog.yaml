@@ -11,4 +11,4 @@ projects:
       - logistics
       - commerce
     documentation:
-      Home: shipping/home.md
+      Home: home.md
